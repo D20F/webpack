@@ -1,0 +1,11 @@
+.hello{
+    color:red;
+    font-family: 'MyFont';
+    background: url('./icon.png');
+}
+@font-face {
+    font-family: 'MyFont';
+    src:  url('./Longview.otf') format('otf');
+    font-weight: 600;
+    font-style: normal;
+}
